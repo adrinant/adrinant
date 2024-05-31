@@ -4,7 +4,7 @@
 
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=32&pause=1000&color=F7DE15&random=false&width=435&height=70&lines=Hi+There!%F0%9F%91%8B+;I'm+Adrinant" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=32&pause=1000&color=fb8c00&random=false&width=435&height=70&lines=Hi+There!%F0%9F%91%8B+;I'm+Adrinant" />
 </h1>
 
 <h3>Highly motivated and passionate QA Engineer from Indonesia.</h3>
